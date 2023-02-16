@@ -8,7 +8,7 @@ const questions = [
     {
         input: 'input',
         name: 'github',
-        message: 'Enter ypur GitHub Username',
+        message: 'Enter your GitHub Username',
         validate: gitHubUsername => {
             if (!gitHubUsername) {
                 console.log('Please enter your GitHub Username')
@@ -30,7 +30,7 @@ const questions = [
                 return true;
             }
         }
-    }, 
+    },
     {
         input: 'input',
         name: 'title',
@@ -97,7 +97,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Select your license',
-        choices: ['agpl 3.0', 'gpl 3.0', 'lgpl 3.0', 'mpl 2.0', 'apache 2.0', 'mit', 'bsl 1.0', 'unlicense','None'],
+        choices: ['agpl 3.0', 'gpl 3.0', 'lgpl 3.0', 'mpl 2.0', 'apache 2.0', 'mit', 'bsl 1.0', 'unlicense', 'None'],
     },
 ];
 // TODO: Create a function to write README file

@@ -10,18 +10,23 @@
 
 ## Description
 
-Allow users to create a professional README by answering questions using CLI.
+This project is Module 9 challenge of U of U's professional bootcamp. The application uses the CLI to allow a user to create a professional README simply by answering questions when prompted.
 
 ## Installation
 
+N/A
 
 ## Usage
    
-![screenshot](assets/images/screenshot.png)
+CLI functionality to allow users to create README files.
+## Demo
+
+[Demo video here](https://drive.google.com/file/d/1rjsi_f-yXUiOEH8-dTuYZYrpa5PCNXhX/view)
    
 
 ## Credits
 
+N/A
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+N/A
